@@ -1,20 +1,34 @@
-Hi, I'm Suresh Nandlall
+<h1 align="left">Hey 👋 What's up?</h1>
 
-IT Support professional transitioning to web developer.  
+###
 
-### Languages: 
-* Javascript
-* Python
-* HTML5
-* CSS3
-* SQL
+<p align="left">My name is Suresh Nandlall and I am an IT Support Professional at New York University Medical Center of Information Technology.  
 
 
-### Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
 
-  
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left">✨ ... <br>📚 I am currently learning Redux<br>🎯 Goals: Professional Web Deveoper<br>🎲 Fun fact: I have never lost a fight against a grizzly bear</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
 
 <!--
 **surnan/surnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
