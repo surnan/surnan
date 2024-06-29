@@ -3,6 +3,10 @@
 ## About Me
 I currently work at NYU as IT Desktop Support and am on the path to becoming a professional Web Developer. I'm passionate about creating efficient and scalable web applications and have a knack for automating and optimizing workflows.
 
+
+🎲 Fun fact: I have never lost a fight against a grizzly bear
+
+
 ## Technologies
 Below are some of the technologies I work with:
 
