@@ -10,8 +10,9 @@ IT Support professional transitioning to web developer.
 * SQL
 
 
-  ### Technologies
-  
+### Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
+
   
 
 
