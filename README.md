@@ -29,7 +29,7 @@ Below are some of the technologies I work with:
   
 ## Let's Connect!
 Feel free to reach out to me:
-- **[LinkedIn](#)**
-- **[Email](mailto:your.email@example.com)**
+- **[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)**
+- **[Email](mailto:suresh.nandlall@outlook.com)**
 
 *Thanks for visiting my profile!*
