@@ -44,5 +44,3 @@ Currently working IT Support at New York University Medical Center and aspiring 
 Feel free to reach out to me:
 - **[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)**
 - **[Email](mailto:suresh.nandlall@outlook.com)**
-
-*Thanks for visiting my profile!*
