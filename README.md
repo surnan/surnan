@@ -34,17 +34,16 @@ With a decade of experience as an IT Support professional, I have developed a st
 ![Workspace ONE](https://img.shields.io/badge/Workspace_ONE-FF5B00?style=flat&logo=vmware&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 
 
 
-![Avaya](https://img.shields.io/badge/Avaya-F01E28?style=flat&logo=avaya&logoColor=white)
 ![AirWatch](https://img.shields.io/badge/AirWatch-007ACC?style=flat&logo=airwatch&logoColor=white)
 ![Ivanti](https://img.shields.io/badge/Ivanti-FF4814?style=flat&logo=ivanti&logoColor=white)
 ![Ground Control](https://img.shields.io/badge/Ground_Control-4CAF50?style=flat&logo=none&logoColor=white)
 ![Avaya](https://img.shields.io/badge/Avaya-F01E28?style=flat&logo=avaya&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Cisco WebEx](https://img.shields.io/badge/Cisco_WebEx-008CCF?style=flat&logo=cisco-webex&logoColor=white)
+![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=cisco-webex&logoColor=white)
 
 
 
