@@ -20,7 +20,7 @@ Currently working IT Support at New York University Medical Center and aspiring 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CF4647?style=flat&logo=sqlalchemy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## Supported Technologies in IT Support:
+## Technologies Utilized in IT Support:
 ![Citrix](https://img.shields.io/badge/Citrix-002B5C?style=flat&logo=citrix&logoColor=white)
 ![Ivanti](https://img.shields.io/badge/Ivanti-FF4814?style=flat&logo=ivanti&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
