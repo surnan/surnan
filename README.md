@@ -34,27 +34,22 @@ With a decade of experience as an IT Support professional, I have developed a st
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-
-
-
-
-![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=jamf&logoColor=white)
-![AirWatch](https://img.shields.io/badge/AirWatch-007ACC?style=flat&logo=airwatch&logoColor=white)
-![Ivanti](https://img.shields.io/badge/Ivanti-FF4800?style=flat&logo=ivanti&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=none&logoColor=white)
+![AirWatch](https://img.shields.io/badge/AirWatch-007ACC?style=flat&logo=none&logoColor=white)
+![Ivanti](https://img.shields.io/badge/Ivanti-FF4800?style=flat&logo=none&logoColor=white)
 ![Ground Control](https://img.shields.io/badge/Ground_Control-4CAF50?style=flat&logo=none&logoColor=white)
-![Avaya](https://img.shields.io/badge/Avaya-F01A22?style=flat&logo=avaya&logoColor=white)
-![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=cisco-webex&logoColor=white)
+![Avaya](https://img.shields.io/badge/Avaya-F01A22?style=flat&logo=none&logoColor=white)
+![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=none&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat&logo=none&logoColor=white)
 
 
-
-
-
-
-## Projects
+#### Projects
 *Here are some of the projects I've worked on:*
 - **Project Name**: ...
   
-## Let's Connect!
+##### Let's Connect!
 Feel free to reach out to me:
 - **[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)**
 - **[Email](mailto:suresh.nandlall@outlook.com)**
