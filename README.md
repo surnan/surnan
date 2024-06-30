@@ -34,6 +34,8 @@ Currently working IT Support at New York University Medical Center and aspiring 
 ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Workspace ONE](https://img.shields.io/badge/Workspace_ONE-FF5B00?style=flat&logo=vmware&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
+![Ground Control](https://img.shields.io/badge/Ground_Control-4CAF50?style=flat&logo=none&logoColor=white)
+
 
 
 ## Projects
