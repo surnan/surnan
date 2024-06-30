@@ -42,7 +42,7 @@ Currently working IT Support at New York University Medical Center and aspiring 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=cisco-webex&logoColor=white)
-
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 
 
