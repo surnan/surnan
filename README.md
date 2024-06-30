@@ -1,8 +1,6 @@
 # Hello, I'm Suresh Nandlall! 👋
 
-## About Me
-Currently working IT Support at New York University Medical Center and aspiring professional developer. I have a strong passion for building efficient and scalable web applications and excel at automating and optimizing workflows.
-
+With a decade of experience as an IT Support professional, I have developed a strong foundation in troubleshooting, system management, and user support. I am now channeling my passion for technology into learning and mastering the skills required to become a professional developer. My goal is to leverage my extensive IT background and newly acquired development skills to create innovative solutions and drive technological advancements.
 
 ## Languages and Development Tools:
 
