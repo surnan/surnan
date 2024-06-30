@@ -44,7 +44,7 @@ With a decade of experience as an IT Support professional, I have developed a st
 ![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=none&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat&logo=none&logoColor=white)
 <br>
-### Contact Me:
-[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/) <br>
-[Email](mailto:suresh.nandlall@outlook.com)
 
+### <ins>Contact Me:</ins>
+*[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/) <br>*
+*[Email](mailto:suresh.nandlall@outlook.com)*
