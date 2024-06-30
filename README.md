@@ -1,6 +1,5 @@
 # Hello, I'm Suresh Nandlall! 👋
 
-<br>
 With a decade of experience as an IT Support professional, I have developed a strong foundation in troubleshooting, system management, and user support. I am now channeling my passion for technology into learning and mastering the skills required to become a professional developer. My goal is to leverage my extensive IT background and newly acquired development skills to create innovative solutions and drive technological advancements.
 <br>
 
@@ -20,9 +19,6 @@ With a decade of experience as an IT Support professional, I have developed a st
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-<br>
-<br>
 
 ## Technologies Utilized in IT Support:
 ![Citrix](https://img.shields.io/badge/Citrix-002B5C?style=flat&logo=citrix&logoColor=white)
@@ -47,9 +43,8 @@ With a decade of experience as an IT Support professional, I have developed a st
 ![Avaya](https://img.shields.io/badge/Avaya-F01A22?style=flat&logo=none&logoColor=white)
 ![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=none&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat&logo=none&logoColor=white)
+<br>
+### Contact Me:
+[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/) <br>
+[Email](mailto:suresh.nandlall@outlook.com)
 
-
-#### Contact Me
-Feel free to reach out to me:
-- **[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)**
-- **[Email](mailto:suresh.nandlall@outlook.com)**
