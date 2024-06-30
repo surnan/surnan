@@ -1,7 +1,7 @@
 # Hello, I'm Suresh Nandlall! 👋
 
 ## About Me
-I currently work in IT Desktop Support at NYU and am on my way to becoming a professional Web Developer. I have a strong passion for building efficient and scalable web applications and excel at automating and optimizing workflows.
+Currently working IT Support at New York University Medical Center and aspiring professional developer. I have a strong passion for building efficient and scalable web applications and excel at automating and optimizing workflows.
 
 🎲 Fun fact: I have never lost a fight against a grizzly bear
 
