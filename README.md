@@ -38,12 +38,13 @@ With a decade of experience as an IT Support professional, I have developed a st
 
 
 
-![Jamf](https://img.shields.io/badge/Jamf-111111?style=flat&logo=jamf&logoColor=white)
+![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=jamf&logoColor=white)
 ![AirWatch](https://img.shields.io/badge/AirWatch-007ACC?style=flat&logo=airwatch&logoColor=white)
-![Ivanti](https://img.shields.io/badge/Ivanti-FF4814?style=flat&logo=ivanti&logoColor=white)
+![Ivanti](https://img.shields.io/badge/Ivanti-FF4800?style=flat&logo=ivanti&logoColor=white)
 ![Ground Control](https://img.shields.io/badge/Ground_Control-4CAF50?style=flat&logo=none&logoColor=white)
-![Avaya](https://img.shields.io/badge/Avaya-F01E28?style=flat&logo=avaya&logoColor=white)
+![Avaya](https://img.shields.io/badge/Avaya-F01A22?style=flat&logo=avaya&logoColor=white)
 ![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=cisco-webex&logoColor=white)
+
 
 
 
