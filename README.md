@@ -20,7 +20,7 @@ With a decade of experience in IT Support, I have built a robust foundation in t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-## 🔧 Technologies Utilized in IT Support:
+## 🛠 Technologies Utilized in IT Support:
 ![Citrix](https://img.shields.io/badge/Citrix-002B5C?style=flat&logo=citrix&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
