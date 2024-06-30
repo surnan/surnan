@@ -3,8 +3,6 @@
 ## About Me
 Currently working IT Support at New York University Medical Center and aspiring professional developer. I have a strong passion for building efficient and scalable web applications and excel at automating and optimizing workflows.
 
-🎲 Fun fact: I have never lost a fight against a grizzly bear
-
 
 ## Languages and Development Tools:
 
