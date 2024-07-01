@@ -12,12 +12,12 @@ With a decade of experience in IT Support, I have built a robust foundation in t
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Web Sockets](https://img.shields.io/badge/WebSockets-0099FF?style=flat&logo=socketdotio&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CF4647?style=flat&logo=sqlalchemy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 🛠 Technologies Utilized in IT Support:
@@ -36,13 +36,9 @@ With a decade of experience in IT Support, I have built a robust foundation in t
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=none&logoColor=white)
-![AirWatch](https://img.shields.io/badge/AirWatch-007ACC?style=flat&logo=none&logoColor=white)
-![Ivanti](https://img.shields.io/badge/Ivanti-FF4800?style=flat&logo=none&logoColor=white)
-![Ground Control](https://img.shields.io/badge/Ground_Control-4CAF50?style=flat&logo=none&logoColor=white)
-![Avaya](https://img.shields.io/badge/Avaya-F01A22?style=flat&logo=none&logoColor=white)
-![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=none&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat&logo=none&logoColor=white)
+![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=webex&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=Apple&logoColor=white)
 <br>
 
 ## 📫 **Get in touch**
