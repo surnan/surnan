@@ -1,6 +1,6 @@
 # Hi there! I'm Suresh Nandlall 👋
 
-With years of experience in IT Support, I have built a robust foundation in troubleshooting, system management, and user support. Now, I'm channeling my passion for technology into mastering the skills needed to become a professional developer. My goal is to leverage my extensive IT background alongside my development skills to create innovative solutions while always improving as a developer.
+With years of experience in IT Support, I have built a robust foundation in troubleshooting, system management, and user support. Now, I'm channeling my passion for technology into mastering the skills needed to become a professional developer. My goal is to leverage my extensive IT background alongside my development skills to create innovative solutions while always striving to improve myself as a developer.
 <br>
 
 ## Languages and Development Tools
