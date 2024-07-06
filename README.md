@@ -41,6 +41,10 @@ With years of experience in IT Support, I have developed a strong foundation in 
 ![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=Apple&logoColor=white)
 <br>
 
+
+[![Suresh GitHub stats](https://github-readme-stats.vercel.app/api?username=surnan)](https://github.com/surnan/github-readme-stats)
+
+
 ## 📫 **Get in touch**
 &nbsp;&nbsp;&nbsp;📧 *[Email](mailto:suresh.nandlall@outlook.com)*<br>
 &nbsp;&nbsp;&nbsp;🌐 *[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)*<br>
