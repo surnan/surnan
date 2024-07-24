@@ -44,8 +44,6 @@ With years of experience in IT Support, I have developed a strong foundation in 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surnan&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Surnan-305&color=green)
-
 <!---    
 ![Profile Views](https://komarev.com/ghpvc/?username=Surnan-305&color=green)
 [![Suresh GitHub stats](https://github-readme-stats.vercel.app/api?username=surnan)](https://github.com/surnan/github-readme-stats)
