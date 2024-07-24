@@ -43,6 +43,7 @@ With years of experience in IT Support, I have developed a strong foundation in 
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surnan&layout=compact)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Surnan-305&color=green)
 
 <!---    
