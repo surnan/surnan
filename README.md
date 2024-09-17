@@ -1,6 +1,6 @@
 # Hi there! I'm Suresh Nandlall 👋
 
-With extensive experience in IT support, I have built a solid foundation in troubleshooting, system management, and user support. I am now directing my enthusiasm and expertise toward a career in development.
+With extensive experience in IT support, I have built a solid foundation in troubleshooting, system management, and user support. I am now directing my enthusiasm and expertise toward software development.
 <br>
 
 ## Languages and Development Tools
