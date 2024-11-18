@@ -17,7 +17,7 @@ Full stack developer that enjoys new challenges and solving problems.  With my y
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 
-## 🪛    Technologies Utilized in IT Support    🔨
+## Technologies Used for Troubleshooting    🔨
 ![Citrix](https://img.shields.io/badge/Citrix-002B5C?style=flat&logo=citrix&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
