@@ -1,6 +1,6 @@
 # Hi there! I'm Suresh Nandlall 👋
 
-With extensive experience in IT support, I have built a solid foundation in troubleshooting, system management, and user support. I am now directing my enthusiasm and expertise toward software development.
+Full stack developer that enjoys new challenges and solving problems.  With my years of experience in IT support, I have built a solid foundation in troubleshooting, system management, and user support. This has enabled me to maintain a calm demeanor when tackling bugs as a developer.
 <br>
 
 ## Languages and Development Tools
