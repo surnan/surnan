@@ -46,13 +46,14 @@ Full stack developer with a solid foundation of troubleshooting, system manageme
 <br>
 
 ## :star: Projects
-### :balance_scale:	[Nutrimate](https://nutrimate.onrender.com)
-> **Tech Stack**: JavaScript, Node.js, AWS, React, Express.js, Redux, CSS, Sequelize, PostgresSQL
-> **Description**: A comprehensive scheduling tool built to streamline shift management for employees and supervisors.
-- Crafted an intuitive, user-friendly interface with React for easy navigation.
-- Optimized state management with Redux to ensure fast data access and smooth interaction.
-- Implemented Sequelize and Postgres for efficient, secure database management.
-- Developed RESTful API endpoints with Express to facilitate data retrieval and manipulation.
+
+#### :balance_scale:	[Nutrimate](https://nutrimate.onrender.com)
+> **Tech Stack**: JavaScript, Node.js, AWS, React, Express.js, Redux, CSS, Sequelize, PostgresSQL  
+> **Description**: Health tracker and calendar for logging and measuring food, excercise and body weight.
+- Implementing Chart.js to ensure a user-friendly interface for reading and tracking data.
+- Implementing Big-Calendar components to recreate Outlook-style visual interface to track activities across hourly, daily, monthly, yearly time intervals.
+- Utilized AWS for storing and retrieving images.
+- User account management and security with CSRF token authentication.
 
 #### :shopping: [Etsify](https://etsify-v1.onrender.com)
 > **Tech Stack**: Python, SQLAlchemy, Flask, React, Redux, CSS, PostgresSQL  
@@ -63,13 +64,12 @@ Full stack developer with a solid foundation of troubleshooting, system manageme
 - Utilized SQLAlchemy and PostgreSQL to create a robust and secure database system.
 - Built a dynamic front-end with React and Redux to enable real-time content updates.
 
-
 ### :house: [AirCNC](https://aircnc-aa.onrender.com)
 > **Tech Stack**: JavaScript, Typescript, React, Redux, CSS, Sequelize, PostgresSQL, Goggle Maps API Integration    
 > **Description**: AirBnB-inspired platform that allows people to list, discover, and book accommodations for apartments and homes.
 - Designed a seamless and user-friendly interface using React, enabling effortless navigation.
 - Enhanced state management with Redux for quick data access and fluid user interactions.
-- Built RESTful API endpoints with Express to enable efficient data handling and operations.
+- Used Docker to ensure consistency across different deployment environments.
 - Utilized Sequelize and PostgreSQL to create a robust and secure database system.
 - Integrated Google Maps API to showcase property locations, allowing users to explore nearby attractions and pinpoint exact geolocations.
 
