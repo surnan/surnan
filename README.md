@@ -2,10 +2,10 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Developer;7-Years+Plus+Experience+Troubleshooting+And+Supporting+Technologies)
 
-Full stack developer that enjoys new challenges and solving problems.  With my years of experience in IT support, I have built a solid foundation in troubleshooting, system management, and user support. This has enabled me to maintain a calm demeanor when tackling bugs as a developer.
+Full stack developer with a solid foundation of troubleshooting, system management, and user support from 7+ years of IT Support.
 <br>
 
-## Languages and Development Tools
+## :open_book: Languages and Development Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
@@ -17,9 +17,19 @@ Full stack developer that enjoys new challenges and solving problems.  With my y
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 
-## Technologies Used For Troubleshooting    🔨
+
+## 🛠️ Technologies Maintained
 ![Citrix](https://img.shields.io/badge/Citrix-002B5C?style=flat&logo=citrix&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
@@ -35,15 +45,35 @@ Full stack developer that enjoys new challenges and solving problems.  With my y
 ![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=Apple&logoColor=white)
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surnan&layout=compact)
-
-<!---    
-![Profile Views](https://komarev.com/ghpvc/?username=Surnan-305&color=green)
-[![Suresh GitHub stats](https://github-readme-stats.vercel.app/api?username=surnan)](https://github.com/surnan/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surnan&layout=compact)
- -->
+## :pencil2: Currently Learning
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 
+## :star: Projects
+### :balance_scale:	[Nutrimate](https://nutrimate.onrender.com)
+> **Tech Stack**: JavaScript, Node.js, AWS, React, Redux, CSS, Sequelize, Postgres    
+> **Description**: A comprehensive scheduling tool built to streamline shift management for employees and supervisors.
+- Crafted an intuitive, user-friendly interface with React for easy navigation.
+- Optimized state management with Redux to ensure fast data access and smooth interaction.
+- Implemented Sequelize and Postgres for efficient, secure database management.
+- Developed RESTful API endpoints with Express to facilitate data retrieval and manipulation.
+
+#### :shopping: [Etsify](https://etsify-v1.onrender.com)
+> **Tech Stack**: Python, Flask, React, Redux, Docker, CSS  
+> **Description**: Etsy-inspired e-commerce platform
+- Developed backend routes in Flask to support user interactions like posts and comments.
+- Designed a dynamic front-end using React and Redux to deliver real-time content updates.
+- Used Docker to ensure consistency across different deployment environments.
+- Applied raw CSS for custom, clean styling to enhance user experience.
+
+### :house: [AirCNC](https://aircnc-aa.onrender.com)
+> **Tech Stack**: JavaScript, React, Redux, CSS, Sequelize, Postgres    
+> **Description**: A comprehensive scheduling tool built to streamline shift management for employees and supervisors.
+- Crafted an intuitive, user-friendly interface with React for easy navigation.
+- Optimized state management with Redux to ensure fast data access and smooth interaction.
+- Implemented Sequelize and Postgres for efficient, secure database management.
+- Developed RESTful API endpoints with Express to facilitate data retrieval and manipulation.
 
 ## 📫 **Get in touch**
 &nbsp;&nbsp;&nbsp;📧 *[Email](mailto:suresh.nandlall@outlook.com)*<br>
