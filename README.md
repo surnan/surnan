@@ -50,7 +50,7 @@ Full stack developer with a solid foundation of troubleshooting, system manageme
 #### :balance_scale:	[Nutrimate](https://nutrimate.onrender.com)
 > **Tech Stack**: JavaScript, Node.js, AWS, React, Express.js, Redux, CSS, Sequelize, PostgresSQL  
 > **Description**: Health tracker and calendar for logging and measuring food, excercise and body weight.
-- Implementing Chart.js to ensure a user-friendly interface for reading and tracking data.
+- Implementing Chart.js to ensure a user-friendly interface for reading and measuring data changes.
 - Implementing Big-Calendar components to recreate Outlook-style visual interface to track activities across hourly, daily, monthly, yearly time intervals.
 - Utilized AWS for storing and retrieving images.
 - User account management and security with CSRF token authentication.
