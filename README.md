@@ -1,9 +1,7 @@
 # Hi there! I'm Suresh Nandlall 👋
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Developer;7-Years+Plus+Experience+Troubleshooting+And+Supporting+Technologies)
+![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Developer;7-Plus+Years+Experience+Troubleshooting+And+Supporting+Technologies)
 
-Full stack developer with a solid foundation of troubleshooting, system management, and user support from 7+ years of IT Support.
-<br>
 
 ## :open_book: Languages and Development Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
