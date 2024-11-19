@@ -45,11 +45,6 @@ Full stack developer with a solid foundation of troubleshooting, system manageme
 ![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=Apple&logoColor=white)
 <br>
 
-## :pencil2: Currently Learning
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
-
 ## :star: Projects
 ### :balance_scale:	[Nutrimate](https://nutrimate.onrender.com)
 > **Tech Stack**: JavaScript, Node.js, AWS, React, Express.js, Redux, CSS, Sequelize, PostgresSQL
@@ -78,6 +73,7 @@ Full stack developer with a solid foundation of troubleshooting, system manageme
 - Utilized Sequelize and PostgreSQL to create a robust and secure database system.
 - Integrated Google Maps API to showcase property locations, allowing users to explore nearby attractions and pinpoint exact geolocations.
 
+### :pencil2: Currently Learning: ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ## 📫 **Get in touch**
 &nbsp;&nbsp;&nbsp;📧 *[Email](mailto:suresh.nandlall@outlook.com)*<br>
