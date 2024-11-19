@@ -52,7 +52,7 @@ Full stack developer with a solid foundation of troubleshooting, system manageme
 
 ## :star: Projects
 ### :balance_scale:	[Nutrimate](https://nutrimate.onrender.com)
-> **Tech Stack**: JavaScript, Node.js, AWS, React, Redux, CSS, Sequelize, Postgres    
+> **Tech Stack**: JavaScript, Node.js, AWS, React, Express.js, Redux, CSS, Sequelize, PostgresSQL
 > **Description**: A comprehensive scheduling tool built to streamline shift management for employees and supervisors.
 - Crafted an intuitive, user-friendly interface with React for easy navigation.
 - Optimized state management with Redux to ensure fast data access and smooth interaction.
@@ -60,20 +60,24 @@ Full stack developer with a solid foundation of troubleshooting, system manageme
 - Developed RESTful API endpoints with Express to facilitate data retrieval and manipulation.
 
 #### :shopping: [Etsify](https://etsify-v1.onrender.com)
-> **Tech Stack**: Python, Flask, React, Redux, Docker, CSS  
+> **Tech Stack**: Python, SQLAlchemy, Flask, React, Redux, CSS, PostgresSQL  
 > **Description**: Etsy-inspired e-commerce platform
-- Developed backend routes in Flask to support user interactions like posts and comments.
-- Designed a dynamic front-end using React and Redux to deliver real-time content updates.
-- Used Docker to ensure consistency across different deployment environments.
-- Applied raw CSS for custom, clean styling to enhance user experience.
+- Created backend routes in Flask to handle user interactions, including posting, purchasing, selling and commenting functionality.
+- Implemented a shopping cart feature that allows users to add, update, and remove items, with persistent state across sessions for a seamless shopping experience.
+- Developed a favorites functionality enabling users to save and manage their favorite items for quick access and enhanced personalization.
+- Utilized SQLAlchemy and PostgreSQL to create a robust and secure database system.
+- Built a dynamic front-end with React and Redux to enable real-time content updates.
+
 
 ### :house: [AirCNC](https://aircnc-aa.onrender.com)
-> **Tech Stack**: JavaScript, React, Redux, CSS, Sequelize, Postgres    
-> **Description**: A comprehensive scheduling tool built to streamline shift management for employees and supervisors.
-- Crafted an intuitive, user-friendly interface with React for easy navigation.
-- Optimized state management with Redux to ensure fast data access and smooth interaction.
-- Implemented Sequelize and Postgres for efficient, secure database management.
-- Developed RESTful API endpoints with Express to facilitate data retrieval and manipulation.
+> **Tech Stack**: JavaScript, Typescript, React, Redux, CSS, Sequelize, PostgresSQL, Goggle Maps API Integration    
+> **Description**: AirBnB-inspired platform that allows people to list, discover, and book accommodations for apartments and homes.
+- Designed a seamless and user-friendly interface using React, enabling effortless navigation.
+- Enhanced state management with Redux for quick data access and fluid user interactions.
+- Built RESTful API endpoints with Express to enable efficient data handling and operations.
+- Utilized Sequelize and PostgreSQL to create a robust and secure database system.
+- Integrated Google Maps API to showcase property locations, allowing users to explore nearby attractions and pinpoint exact geolocations.
+
 
 ## 📫 **Get in touch**
 &nbsp;&nbsp;&nbsp;📧 *[Email](mailto:suresh.nandlall@outlook.com)*<br>
