@@ -71,8 +71,6 @@
 - Utilized Sequelize and PostgreSQL to create a robust and secure database system.
 - Integrated Google Maps API to showcase property locations, allowing users to explore nearby attractions and pinpoint exact geolocations.
 
-### :pencil2: Currently Learning: ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
 ## 📫 **Get in touch**
 &nbsp;&nbsp;&nbsp;📧 *[Email](mailto:suresh.nandlall@outlook.com)*<br>
 &nbsp;&nbsp;&nbsp;🌐 *[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)*<br>
