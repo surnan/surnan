@@ -74,3 +74,8 @@
 ## 📫 **Get in touch**
 &nbsp;&nbsp;&nbsp;📧 *[Email](mailto:suresh.nandlall@outlook.com)*<br>
 &nbsp;&nbsp;&nbsp;🌐 *[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)*<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-nandlall/)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/forsuresh4444)
+[![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Suresh_Nandlall@outlook.com)
+
