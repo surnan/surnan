@@ -62,7 +62,7 @@
 - Utilized SQLAlchemy and PostgreSQL to create a robust and secure database system.
 - Built a dynamic front-end with React and Redux to enable real-time content updates.
 
-### :house: [AirCNC](https://github.com/surnan/aircnc)
+#### :house: [AirCNC](https://github.com/surnan/aircnc)
 > **Tech Stack**: JavaScript, Typescript, React, Redux, CSS, Sequelize, PostgresSQL, Goggle Maps API Integration    
 > **Description**: AirBnB-inspired platform that allows people to list, discover, and book accommodations for apartments and homes.
 - Designed a seamless and user-friendly interface using React, enabling effortless navigation.
