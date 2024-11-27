@@ -72,10 +72,11 @@
 - Integrated Google Maps API to showcase property locations, allowing users to explore nearby attractions and pinpoint exact geolocations.
 
 ## 📫 **Get in touch**
-&nbsp;&nbsp;&nbsp;📧 *[Email](mailto:suresh.nandlall@outlook.com)*<br>
-&nbsp;&nbsp;&nbsp;🌐 *[LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)*<br>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-nandlall/)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/forsuresh4444)
-[![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Suresh_Nandlall@outlook.com)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:suresh_nandlall@outlook.com)
+
+
+
+
 
