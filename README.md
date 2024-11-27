@@ -1,6 +1,6 @@
 # Hi there! I'm Suresh Nandlall 👋
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Developer;7+Years+IT+Experience+Troubleshooting+And+Supporting+Technologies)
+![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Developer;7+Years+IT+Support+Experience)
 
 
 ## :open_book: Languages and Development Tools
