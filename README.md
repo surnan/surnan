@@ -45,7 +45,7 @@
 
 ## :star: Projects
 
-#### :balance_scale:	[Nutrimate](https://nutrimate.onrender.com)
+#### :balance_scale:	[Nutrimate](https://github.com/surnan/NutriMate)
 > **Tech Stack**: JavaScript, Node.js, AWS, React, Express.js, Redux, CSS, Sequelize, PostgresSQL  
 > **Description**: Health tracker and calendar for logging and measuring food, excercise and body weight.
 - Implementing Chart.js to ensure a user-friendly interface for reading and measuring data changes.
@@ -53,7 +53,7 @@
 - Utilized AWS for storing and retrieving images.
 - User account management and security with CSRF token authentication.
 
-#### :shopping: [Etsify](https://etsify-v1.onrender.com)
+#### :shopping: [Etsify](https://github.com/surnan/Etsify)
 > **Tech Stack**: Python, SQLAlchemy, Flask, React, Redux, CSS, PostgresSQL  
 > **Description**: Etsy-inspired e-commerce platform
 - Created backend routes in Flask to handle user interactions, including posting, purchasing, selling and commenting functionality.
@@ -62,7 +62,7 @@
 - Utilized SQLAlchemy and PostgreSQL to create a robust and secure database system.
 - Built a dynamic front-end with React and Redux to enable real-time content updates.
 
-### :house: [AirCNC](https://aircnc-aa.onrender.com)
+### :house: [AirCNC](https://github.com/surnan/aircnc)
 > **Tech Stack**: JavaScript, Typescript, React, Redux, CSS, Sequelize, PostgresSQL, Goggle Maps API Integration    
 > **Description**: AirBnB-inspired platform that allows people to list, discover, and book accommodations for apartments and homes.
 - Designed a seamless and user-friendly interface using React, enabling effortless navigation.
