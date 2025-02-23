@@ -70,6 +70,7 @@
 - Used Docker to ensure consistency across different deployment environments.
 - Utilized Sequelize and PostgreSQL to create a robust and secure database system.
 - Integrated Google Maps API to showcase property locations, allowing users to explore nearby attractions and pinpoint exact geolocations.
+
   
 ## 📫 **Get in touch**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-nandlall/)
