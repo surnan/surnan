@@ -25,8 +25,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-
-
 ## 🛠️ Technologies Maintained
 ![Citrix](https://img.shields.io/badge/Citrix-002B5C?style=flat&logo=citrix&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
