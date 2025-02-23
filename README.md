@@ -26,7 +26,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 
-## 🛠️ Technologies Maintained
+## 🛠️ IT Support for the following technologies
 ![Citrix](https://img.shields.io/badge/Citrix-002B5C?style=flat&logo=citrix&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
