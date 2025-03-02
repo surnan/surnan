@@ -2,7 +2,6 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Developer;7-plus+Years+IT+Support+Experience)
 
-
 ## :open_book: Languages and Development Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
