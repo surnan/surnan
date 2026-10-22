@@ -1,65 +1,161 @@
-# Hi there! I'm Suresh Nandlall 👋
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Developer;7-plus+Years+IT+Support+Experience)
+# Hi, I'm Suresh Nandlall 👋
 
-## :open_book: Languages and Development Tools
-![Powershell](https://img.shields.io/badge/Powershell-3776AB?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+### Systems Administrator | Microsoft 365 | IT Security | PowerShell & Python Automation
 
+I'm an IT professional with 7+ years of experience supporting enterprise IT environments, managing cloud services, securing endpoints, and troubleshooting complex infrastructure issues.
 
-## 🛠️ IT Support for the following technologies
-![Citrix](https://img.shields.io/badge/Citrix-002B5C?style=flat&logo=citrix&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
-![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?style=flat&logo=dropbox&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
-![Workspace ONE](https://img.shields.io/badge/Workspace_ONE-FF5B00?style=flat&logo=vmware&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![WebEx](https://img.shields.io/badge/WebEx-008CCF?style=flat&logo=webex&logoColor=white)
-![Jamf](https://img.shields.io/badge/Jamf-1F2937?style=flat&logo=Apple&logoColor=white)
-<br>
+My technical background includes Microsoft 365 administration, identity and access management, endpoint management, network infrastructure, and cybersecurity.
 
-## :star: Projects
+I also develop **PowerShell and Python automation tools** to streamline administrative tasks, improve security auditing, and reduce manual work.
 
-#### :balance_scale:	[Nutrimate](https://github.com/surnan/NutriMate)
-> **Tech Stack**: JavaScript, Node.js, AWS, React, Express.js, Redux, CSS, Sequelize, PostgresSQL  
-> **Description**: Health tracker and calendar for logging and measuring food, excercise and body weight.
-- Implementing Chart.js to ensure a user-friendly interface for reading and measuring data changes.
-- Implementing Big-Calendar components to recreate Outlook-style visual interface to track activities across hourly, daily, monthly, yearly time intervals.
-- Utilized AWS for storing and retrieving images.
-- User account management and security with CSRF token authentication.
+📍 Jersey City, NJ | New York City Metro Area
 
-#### :shopping: [Etsify](https://github.com/surnan/Etsify)
-> **Tech Stack**: Python, SQLAlchemy, Flask, React, Redux, CSS, PostgresSQL  
-> **Description**: Etsy-inspired e-commerce platform
-- Created backend routes in Flask to handle user interactions, including posting, purchasing, selling and commenting functionality.
-- Implemented a shopping cart feature that allows users to add, update, and remove items, with persistent state across sessions for a seamless shopping experience.
-- Developed a favorites functionality enabling users to save and manage their favorite items for quick access and enhanced personalization.
-- Utilized SQLAlchemy and PostgreSQL to create a robust and secure database system.
-- Built a dynamic front-end with React and Redux to enable real-time content updates.
+---
 
-#### :house: [AirCNC](https://github.com/surnan/aircnc)
-> **Tech Stack**: JavaScript, Typescript, React, Redux, CSS, Sequelize, PostgresSQL, Goggle Maps API Integration    
-> **Description**: AirBnB-inspired platform that allows people to list, discover, and book accommodations for apartments and homes.
-- Designed a seamless and user-friendly interface using React, enabling effortless navigation.
-- Enhanced state management with Redux for quick data access and fluid user interactions.
-- Used Docker to ensure consistency across different deployment environments.
-- Utilized Sequelize and PostgreSQL to create a robust and secure database system.
-- Integrated Google Maps API to showcase property locations, allowing users to explore nearby attractions and pinpoint exact geolocations.
+## 🛠️ Technical Skills
 
-  
-## 📫 **Get in touch**
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-nandlall/)
-&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:suresh_nandlall@outlook.com)
+### ☁️ Microsoft Cloud & Identity
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/4GWmvKBiml8vPQUchI/200w.gif?cid=82a1493b6y9k819fuutxcp94dmf5nd5aq0trlo1b6kcnlgor&ep=v1_gifs_related&rid=200w.gif&ct=g"
-</p>
+- Microsoft 365 Administration
+- Microsoft Entra ID / Azure
+- Microsoft Intune
+- Exchange Online
+- SharePoint Online & OneDrive
+- Microsoft Teams
+- Microsoft Defender & Purview
+
+### 🖥️ Systems & Infrastructure
+- Windows 10/11 & macOS Administration
+- Active Directory & Group Policy
+- Cisco Meraki Firewalls & Networking
+- Aruba Wireless Networking
+- Apple Business Manager
+- Google Workspace Administration
+- Endpoint Management & Device Lifecycle
+- Veeam Microsoft 365 Backup
+
+### 🔐 Security & Compliance
+- Identity & Access Management (IAM)
+- Multi-Factor Authentication (MFA)
+- Conditional Access
+- Endpoint Protection & Security Policies
+- Email Security & Phishing Investigation
+- Vulnerability Management & Remediation
+- Microsoft Secure Score
+- Security Auditing & Reporting
+
+### 💻 Scripting & Automation
+![PowerShell](https://img.shields.io/badge/PowerShell_7-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+- PowerShell 7
+- Python
+- Microsoft Graph API
+- Microsoft Graph PowerShell SDK
+- Exchange Online PowerShell
+- Google Workspace Admin SDK
+- REST APIs
+- Git & GitHub
+- Visual Studio Code
+
+---
+
+## 🚀 IT Automation Projects
+
+### 🔹 Microsoft Entra ID User & Group Auditing
+
+Developed PowerShell scripts utilizing Microsoft Graph to automate user account reporting, group membership audits, and authentication investigations.
+
+**Capabilities:**
+- Retrieve Entra ID user account information and email aliases
+- Report direct and transitive group memberships
+- Identify accounts created within specified date ranges
+- Query user sign-in activity and associated devices
+- Audit inactive accounts and authentication history
+- Export administrative reports to CSV
+
+**Tech Stack:** PowerShell 7, Microsoft Graph API, Microsoft Entra ID
+
+### 🔹 Exchange Online Administration & Reporting
+
+Created PowerShell utilities to simplify Microsoft Exchange Online administration, mailbox access reviews, and security auditing.
+
+**Capabilities:**
+- Audit mailbox Full Access permissions across the organization
+- Retrieve and inspect mailbox inbox rules
+- Identify mailbox access assignments
+- Generate CSV reports for administrative reviews
+- Support mailbox security investigations and troubleshooting
+
+**Tech Stack:** PowerShell 7, Exchange Online PowerShell, Microsoft 365
+
+### 🔹 Google Workspace Administration with Python
+
+Developed Python automation to interact with Google Workspace using the Google Admin SDK and OAuth 2.0 authentication.
+
+**Capabilities:**
+- Retrieve Google Workspace user accounts
+- Report account status and organizational units
+- Inventory primary email addresses and aliases
+- Retrieve last-login information
+- Export user account inventories to CSV
+
+**Tech Stack:** Python, Google Admin SDK, OAuth 2.0, REST APIs
+
+---
+
+## 🏢 Enterprise IT & Security Experience
+
+### Microsoft 365 & Identity Administration
+- Administer Microsoft 365, including Entra ID, Exchange Online, SharePoint, OneDrive, Teams, Intune, Defender, and Purview.
+- Manage user provisioning, deprovisioning, licensing, group memberships, MFA, and access permissions.
+- Troubleshoot identity, authentication, email delivery, and collaboration issues.
+
+### Endpoint Management & Security
+- Manage Windows and macOS endpoints using Microsoft Intune and Apple Business Manager.
+- Configure endpoint protection policies and Microsoft Defender security controls.
+- Implement security improvements based on Microsoft Secure Score recommendations.
+- Investigate phishing attempts, suspicious emails, and security incidents.
+
+### Network & Infrastructure Administration
+- Configure and maintain Cisco Meraki firewalls and dual-WAN connectivity.
+- Administer Aruba wireless infrastructure and support corporate networking.
+- Coordinate infrastructure deployments, office technology moves, and equipment lifecycle management.
+- Support Microsoft Teams Rooms, conference room technology, and enterprise collaboration platforms.
+
+### Automation & Operational Efficiency
+- Develop PowerShell scripts for Microsoft 365 and Entra ID administrative reporting.
+- Build Python utilities for Google Workspace administration.
+- Automate repetitive administrative processes and generate CSV audit reports.
+- Use Microsoft Graph and REST APIs to improve visibility into enterprise systems.
+
+---
+
+## 🎓 Certifications & Professional Development
+
+**Certifications**
+- CompTIA Security+ — January 2026
+
+**Currently Studying**
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Azure & Entra ID Security
+- Advanced PowerShell and Python Automation
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-nandlall)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surrnan)
+
+---
+
+*Focused on reliable IT infrastructure, stronger cybersecurity, and practical automation.*
