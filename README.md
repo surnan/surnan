@@ -11,7 +11,7 @@ I develop **PowerShell and Python automation tools** to streamline IT administra
 
 📍 **Jersey City, NJ | New York City Metro Area**
 
-🌐 [Portfolio Website](https://surnan.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/suresh-nandlall/) • [GitHub](https://github.com/surnan)
+🌐 [Portfolio Website](https://surnan.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/suresh-nandlall/)
 
 ---
 
