@@ -3,7 +3,7 @@
 
 ### Systems Administrator | Microsoft 365 | IT Security | PowerShell & Python Automation
 
-I'm an IT professional with 7+ years of experience supporting enterprise IT environments, managing cloud services, securing endpoints, and troubleshooting complex infrastructure issues.
+I'm an IT professional with over a decade of experience supporting enterprise IT environments, managing cloud services, securing endpoints, and troubleshooting complex infrastructure issues.
 
 My technical background includes Microsoft 365 administration, identity and access management, endpoint management, network infrastructure, and cybersecurity.
 
@@ -151,11 +151,11 @@ Developed Python automation to interact with Google Workspace using the Google A
 ---
 
 ## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-nandlall)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surrnan)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://surnan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-nandlall/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surnan)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh.nandlall2@outlook.com)
+  
 ---
 
 *Focused on reliable IT infrastructure, stronger cybersecurity, and practical automation.*
