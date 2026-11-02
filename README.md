@@ -180,8 +180,11 @@ Developed Python scripts for traditional on-premises Active Directory and Window
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://surnan.netlify.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-nandlall/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surnan)
+
 [![Email](https://img.shields.io/badge/Email-Contact_Me-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh.nandlall2@outlook.com)
 
 ---
